@@ -44,14 +44,14 @@ To build an AI system that generates **personalized weekly learning plans** base
 
 ---
 
-## 📈 Learnings
+## Learnings
 - Translating business requirements into LLM-based solutions  
 - Designing user-centric AI workflows  
 - Managing scalability, accuracy, and privacy in AI applications  
 
 ---
 
-## 📄 Files
+## Files
 - `Dipita_Module2.ipynb` — main prototype notebook  
 - `Dipita_Module2_Assignment.pdf` — report and presentation  
 - `assets/` — screenshots for reference  
